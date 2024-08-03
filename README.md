@@ -15,16 +15,16 @@ Press_kPa: Atmospheric pressure in kilopascals
 
 Project Structure
 data/: Directory containing the dataset files.
-scripts/: Directory containing Python scripts for data analysis.
-notebooks/: Directory containing Jupyter notebooks for exploratory data analysis.
 README.md: This file, providing an overview of the project.
-requirements.txt: A file listing the Python packages required for this project.
-Getting Started
+scripts/: Directory containing Python and SQL scripts for data analysis.
+archive/
+
 Prerequisites
 Ensure you have the following installed:
 
-Python 3.x
+Python 
 Pandas
 NumPy
 Matplotlib (for visualizations)
 Jupyter (if you plan to use Jupyter notebooks)
+SQL
